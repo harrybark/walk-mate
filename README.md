@@ -30,6 +30,8 @@
 
 ## 구현
 
+<a href="https://www.notion.so/5dfd8b452dee4b2bbe0f37dc9a7ccd39?v=610e617c61b843b8818a97ab394534b5">notion 보러가기</a>
+
 ### 1.기술 스택
 
 > <p>Backend Stack</p>
